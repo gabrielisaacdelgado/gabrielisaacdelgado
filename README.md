@@ -31,8 +31,8 @@
 <p align="left">
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/gabriel-isaac-delgado-abb2962b2/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white_link=https://www.instagram.com/gadelgado_/" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/gadelgado_/" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitelink=https://www.instagram.com/gadelgado_/" alt="Instagram"/></a>
 </p>
 
 ![Delgado's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielisaacdelgado&theme=dark&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielisaacdelgado&theme=dark&show&layout=donut)](https://github.com/gabrielisaacdelgado/github-readme-stats)
