@@ -29,7 +29,7 @@
 </p>
 
 <p align="left">
-  <a href="#" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/gabriel-isaac-delgado-abb2962b2/" title="LinkedIn">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitelink=https://www.linkedin.com/in/gabriel-isaac-delgado-abb2962b2/" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/gadelgado_/" title="Instagram">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whitelink=https://www.instagram.com/gadelgado_/" alt="Instagram"/></a>
