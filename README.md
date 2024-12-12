@@ -4,7 +4,7 @@
 
 - 💡 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Cursando bacharel em Engenharia de Software na Cruzeiro do Sul Virtual.
-- 📚 Aprendendo mais sobre Java, JavaScript, Python, PHP, Vue.js, JQuery e React.
+- 📚 Aprendendo mais sobre Java, JavaScript, Python, React e Kotlin.
 
 <p align="left"> 
  🚀 Perfil para compartilhamento de projetos da faculdade e pessoais.
