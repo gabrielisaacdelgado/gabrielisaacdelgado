@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/740660231268466701/1313634002267275324/Banner_perfil_GitHub.png?ex=6790c940&is=678f77c0&hm=96552088207e7ebf263bdd3da7e17b12426d30183efa62a1f77a19135403dc0b&=&format=webp&quality=lossless&width=1440&height=407" alt="banner do perfil" min-width="1000px" max-width="1000px" width="1000px" align="down">
+<img src="https://cdn.discordapp.com/attachments/740660231268466701/1313634002267275324/Banner_perfil_GitHub.png?ex=67f6f580&is=67f5a400&hm=334c1a1bc727a0c0f8ef5885311e91ef98629cf4fafdc66099655cc0cb8d6c4d&" alt="banner do perfil" min-width="1000px" max-width="1000px" width="1000px" align="down">
 
 ## Sobre mim
 
